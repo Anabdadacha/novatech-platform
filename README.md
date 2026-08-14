@@ -1,2 +1,2 @@
 # novatech-platform
-project status:student B update
+Project status: Student B update
